@@ -103,7 +103,7 @@ students.each do |url|
 				        \"#{app_decs[1]}\",
 				        \"#{app_names[2]}\",
 				        \"#{app_decs[2]}\")")
-	## remove in production ##
-	# break
+	
+	#TODO: need to add the index scrapper	
 end
 
