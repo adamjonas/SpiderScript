@@ -1,0 +1,144 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Flatiron School - Students</title>
+  <link href="css/style.css" type="text/css" rel="stylesheet">
+  <link href="css" type="text/css" rel="stylesheet">
+  <link href="css/matz.css" type="text/css" rel="stylesheet">
+  <script type="text/javascript" src="js/libs/jquery-1.4.3.min.js"></script>
+  <script type="text/javascript" src="js/libs/modernizr-1.7.min.js"></script>
+</head>
+
+<body>
+<div id="page">
+  <header id="header">
+    <div class="center">
+      <nav id="main-menu">
+        <ul>
+          <li class="site-title"><a href="index.html">Students @ Flatiron School</a></li>
+        </ul>
+        <ul>
+          <li><a href="http://flatironschool.com">More about Our School</a></li>
+        </ul>
+      </nav>
+      <div class="clear"></div>
+    </div>
+  </header>
+
+  <section id="about" class="about-us content">
+
+
+        <div class="jrcolumns">
+          <!-- LEFT COLUMN -->
+          <div id='navcontainer'class="one_third">
+
+
+
+
+<div class="jack_nolan-profile-photo">
+  <img src="images/circle-mask.png"/>
+</div>
+
+
+
+
+
+            <nav id='side-nav'>
+              <ul>
+                <li class='mail'><a href="mailto:jack@jacknolan.com">Mail</a></li>
+                <li class='blog'><a href="http://jacknolan.herokuapp.com/">Blog</a></li>
+                <li class='linkedin'><a href="http://www.linkedin.com/pub/jack-nolan/55/804/519">LinkedIn</a></li>
+                <li class='twitter'><a href="https://twitter.com/JackPNolan">Twitter</a></li>
+              </ul>
+            </nav> <!-- this is the end of side nav -->
+          </div>
+          <!-- MIDDLE COLUMN -->
+          <div class="two_third">
+            <h1>Jack Nolan</h1>
+            <h2 id='tagline'>TODO: write an awesome tagline</h2>
+             <p>I am a fourth year student at the University of Minnesota taking a semester off of my studies to become a web guru in New York! I have been dabbling in programming for most of my life and after trying a few different majors out I decided to give in and and do what I enjoy... coding.
+            </p>
+             <p>
+              While working in a PhP office as an intern for 8 months I gained a passion for web development that lead me to apply for Flatiron school. This program is a once in a lifetime opportunity to gain the valuable knowledge I need to get creating awesome web applications!
+             </p>
+
+<br/><br/>
+            <h2 id='tagline'>My favorite apps</h2>
+
+<div class="one_third">
+<h4>Sublime Text 2</h4>
+<p>Current text editor of choice. Well thought out hot keys easy plugin management plus a great color scheme makes this one of my favorite app.</p>
+</div>
+
+
+<div class="one_third">
+<h4>Hacker News</h4>
+<p>Crowdsourced news with an intelligent design. Add this to the companies desire to keep it from degrading nets it a spot!</p>
+</div>
+
+<div class="one_third last">
+<h4>Chrome</h4>
+<p>Current browser of choice. Good design and very fluid feeling the only flaw is rss feed.</p>
+</div>
+
+
+          </div>
+          <!-- RIGHT COLUMN -->
+
+        <div class="clear"></div>
+
+        <h2 class="title"><span>Coder Cred</span></h2>
+
+
+
+          <div class="columns">
+          <div class="coder-cred">
+            <div class="one_fifth"><a href="https://github.com/JackNolan">asdsadfasdfa<div class="cred-github"></div></a></div>
+            <div class="one_fifth"><a href="http://www.codeschool.com/users/168732">asdsadfasdfa<div class="cred-codeschool"></div></a></div>
+            <div class="one_fifth"><a href="http://coderwall.com/jacknolan">asdsadfasdfa<div class="cred-coderwall"></div></a></div>
+            <div class="one_fifth"><a href="http://stackoverflow.com/users/1647452/jacknolan">asdsadfasdfa<div class="cred-stackoverflow"></div></a></div>
+            <div class="one_fifth last"><a href="http://teamtreehouse.com/jacknolan">asdsadfasdfa<div class="cred-treehouse"></div></a></div>
+          </div>
+          </div>
+
+
+        <div class="clear"></div>
+        <h2 class="title"><span>Social Nerdery</span></h2>
+
+
+        <div class="one_half">
+
+          <h2> Github Feed</h2>
+
+            <script language="JavaScript" src="http://itde.vccs.edu/rss2js/feed2js.php?src=https%3A%2F%2Fgithub.com/jacknolan.atom&chan=n&num=5&desc=1&date=y&targ=y" type="text/javascript"></script>
+
+            <noscript>
+
+            <a href="http://itde.vccs.edu/rss2js/feed2js.php?src=https%3A%2F%2Fgithub.com/jacknolan.atom&chan=n&num=5&desc=1&date=y&targ=y&html=y">View RSS feed</a>
+
+
+        </div>
+
+        <div class="one_half last">
+
+            <a class="twitter-timeline" href="https://twitter.com/rexfeng" data-widget-id="255807657510838272">Tweets by @JackPNolan</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+        </div>
+      <div class="clear"></div>
+        <h2 class="title">&nbsp;</h2>
+<section id="copyright" class="footer content">
+    <div class="center">
+      <p>&copy; 2012. All Your Rights Are Belong To Us.</p>
+      <div class="clear"></div>
+    </div>
+  </section>
+
+
+        </div>
+    </div>
+  </section>
+</body>
+</html>
